@@ -1,5 +1,5 @@
 # Ph.D. Stories
-Brief biographies of people's Ph.D.s
+Brief autobiographies of people's Ph.D.s
 
 |Student|PhD Affiliation(s)|Blog Post Title|Link|
 |---|---|---|---|
